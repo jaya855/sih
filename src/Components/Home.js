@@ -20,7 +20,7 @@ const Home = () => {
       <Header/>
       <div className="background-image">
       <div className='center-container'>
-        <Search/>
+        <Search />
       </div>
         {/* Content of your home page */}
       </div>

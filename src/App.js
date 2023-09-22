@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import Login from './Components/Login';
 import Home from './Components/Home';
-import JudgeLogin from './Components/Judge';
+import JudgeLogin from './Components/Login';
 import Lobby from './Components/Lobby';
 import Chat from './Components/Chat';
 import Calender from './Components/Calender';
